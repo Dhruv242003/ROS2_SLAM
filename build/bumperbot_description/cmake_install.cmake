@@ -46,6 +46,9 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/bumperbot_description" TYPE DIRECTORY FILES
     "/home/dhruv/bumperbot_ws/src/bumperbot_description/meshes"
     "/home/dhruv/bumperbot_ws/src/bumperbot_description/urdf"
+    "/home/dhruv/bumperbot_ws/src/bumperbot_description/launch"
+    "/home/dhruv/bumperbot_ws/src/bumperbot_description/rviz"
+    "/home/dhruv/bumperbot_ws/src/bumperbot_description/models"
     )
 endif()
 
