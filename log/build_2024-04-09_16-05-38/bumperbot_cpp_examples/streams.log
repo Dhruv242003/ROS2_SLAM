@@ -1,0 +1,31 @@
+[0.023s] Invoking command in '/home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dhruv/bumperbot_ws/install/bumperbot_py_examples:/home/dhruv/ros2_ws/install/new_pkg:/opt/ros/humble /usr/bin/cmake --build /home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples -- -j16 -l16
+[0.078s] [ 50%] Built target simple_subscriber
+[0.078s] [ 50%] Built target simple_turtlesim_kinematics
+[0.081s] [ 75%] Built target simple_publisher
+[0.082s] [100%] Built target simple_parameter
+[0.304s] Invoked command in '/home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dhruv/bumperbot_ws/install/bumperbot_py_examples:/home/dhruv/ros2_ws/install/new_pkg:/opt/ros/humble /usr/bin/cmake --build /home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples -- -j16 -l16
+[0.338s] Invoking command in '/home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dhruv/bumperbot_ws/install/bumperbot_py_examples:/home/dhruv/ros2_ws/install/new_pkg:/opt/ros/humble /usr/bin/cmake --install /home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples
+[0.358s] -- Install configuration: ""
+[0.358s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/include/include
+[0.359s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/include/include/bumperbot_cpp_examples
+[0.359s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/include/include/bumperbot_cpp_examples/simple_turtlesim_kinematics.hpp
+[0.360s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_publisher
+[0.361s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_subscriber
+[0.361s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_parameter
+[0.362s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/lib/bumperbot_cpp_examples/simple_turtlesim_kinematics
+[0.363s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/bumperbot_cpp_examples
+[0.364s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/bumperbot_cpp_examples
+[0.364s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.sh
+[0.364s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/ament_prefix_path.dsv
+[0.365s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.sh
+[0.365s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/environment/path.dsv
+[0.366s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.bash
+[0.367s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.sh
+[0.367s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.zsh
+[0.367s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/local_setup.dsv
+[0.367s] -- Installing: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.dsv
+[0.367s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/ament_index/resource_index/packages/bumperbot_cpp_examples
+[0.368s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig.cmake
+[0.368s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/cmake/bumperbot_cpp_examplesConfig-version.cmake
+[0.368s] -- Up-to-date: /home/dhruv/bumperbot_ws/install/bumperbot_cpp_examples/share/bumperbot_cpp_examples/package.xml
+[0.374s] Invoked command in '/home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dhruv/bumperbot_ws/install/bumperbot_py_examples:/home/dhruv/ros2_ws/install/new_pkg:/opt/ros/humble /usr/bin/cmake --install /home/dhruv/bumperbot_ws/build/bumperbot_cpp_examples

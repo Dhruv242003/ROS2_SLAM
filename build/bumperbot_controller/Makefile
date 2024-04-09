@@ -198,6 +198,19 @@ bumperbot_controller_uninstall/fast:
 .PHONY : bumperbot_controller_uninstall/fast
 
 #=============================================================================
+# Target rules for targets named simple_controller
+
+# Build rule for target.
+simple_controller: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 simple_controller
+.PHONY : simple_controller
+
+# fast build rule for target.
+simple_controller/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/simple_controller.dir/build.make CMakeFiles/simple_controller.dir/build
+.PHONY : simple_controller/fast
+
+#=============================================================================
 # Target rules for targets named ament_cmake_python_copy_bumperbot_controller
 
 # Build rule for target.
@@ -222,19 +235,6 @@ ament_cmake_python_build_bumperbot_controller_egg: cmake_check_build_system
 ament_cmake_python_build_bumperbot_controller_egg/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg.dir/build.make CMakeFiles/ament_cmake_python_build_bumperbot_controller_egg.dir/build
 .PHONY : ament_cmake_python_build_bumperbot_controller_egg/fast
-
-#=============================================================================
-# Target rules for targets named simple_controller
-
-# Build rule for target.
-simple_controller: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 simple_controller
-.PHONY : simple_controller
-
-# fast build rule for target.
-simple_controller/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/simple_controller.dir/build.make CMakeFiles/simple_controller.dir/build
-.PHONY : simple_controller/fast
 
 src/simple_controller.o: src/simple_controller.cpp.o
 .PHONY : src/simple_controller.o

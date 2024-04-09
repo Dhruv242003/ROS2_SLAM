@@ -248,7 +248,7 @@ RMW_IMPLEMENTATION:STRING=rmw_cyclonedds_cpp
 SITE:STRING=tuf-dash
 
 //Path to a library.
-_lib:FILEPATH=/opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_fastrtps_cpp.so
+_lib:FILEPATH=/opt/ros/humble/lib/libgeometry_msgs__rosidl_typesupport_fastrtps_cpp.so
 
 //The directory containing a CMake configuration file for ament_cmake.
 ament_cmake_DIR:PATH=/opt/ros/humble/share/ament_cmake/cmake
